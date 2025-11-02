@@ -1,15 +1,15 @@
 # Deep Multi-view Clustering Summary (Updating)
 
-## Deep Multi-view Clustering
+## Deep Multi-view Clustering (DMVC)
 
 #### 2025
 
-## Deep Incomplete Multi-view Clustering
+## Deep Incomplete Multi-view Clustering (DIMVC)
 
 #### 2025
 
 
-## Deep Partially View-unaligned Clustering
+## Deep Partially View-unaligned Clustering (PVP)
 
 #### 2025
 
