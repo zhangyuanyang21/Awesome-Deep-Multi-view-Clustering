@@ -20,7 +20,9 @@
 #### 2025
 
 - `[2025 ICML]` **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance**
-*Guoqing Chao, Zhenghao Zhang, Lei Meng, Jie Wen, Dianhui Chu* 
+*Guoqing Chao, Zhenghao Zhang, Lei Meng, Jie Wen, Dianhui Chu*
+[[paper]](https://arxiv.org/abs/2505.11182)
+[[code]](https://github.com/zoyadai/2025_CVPR_FreeCSL) 
 [[paper]](https://arxiv.org/pdf/2506.15703)
 [[code]](https://github.com/PaddiHunter/FIMCFG)
 
