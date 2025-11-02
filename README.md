@@ -8,6 +8,9 @@ We mark works contributed by our group with ⭐.
 
 *This repository now is maintained by [Mouxing Yang](https://mouxingyang.github.io/), [Yijie Lin](https://lin-yijie.github.io/), [Changhao He](https://he-changhao.github.io/), and [Yang Qin](https://qinyang-cs.github.io/). We hope more researchers join us and thank [all contributors](https://github.com/QinYang79/Noisy-Correspondence-Summary/graphs/contributors)!*  
 
+## Deep Multi-view Clustering
+
+#### 2025
 
 ## Deep Incomplete Multi-view Clustering
 
