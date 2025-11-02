@@ -21,8 +21,8 @@
 
 - `[2025 ICML]` **Federated Incomplete Multi-view Clustering with Globally Fused Graph Guidance**
 *Guoqing Chao, Zhenghao Zhang, Lei Meng, Jie Wen, Dianhui Chu*
-[[paper]]([https://arxiv.org/abs/2505.11182](https://arxiv.org/pdf/2506.15703))
-[[code]]([https://github.com/zoyadai/2025_CVPR_FreeCSL](https://github.com/PaddiHunter/FIMCFG))
+[[paper]](https://arxiv.org/pdf/2506.15703)
+[[code]](https://github.com/PaddiHunter/FIMCFG)
 
 - `[2025 CVPR]` **Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning**  
 *Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En Zhu, Xihong Yang, Xinbiao Gan, Yu Feng*  
