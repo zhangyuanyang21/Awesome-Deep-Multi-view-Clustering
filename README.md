@@ -1,5 +1,14 @@
 # Deep Multi-view Clustering Summary (Updating)
 
+## Tasks
+
+|||
+|-|-|
+|  [Deep Multi-view Clustering](#Deep Multi-view Clustering)   |  [Deep Incomplete Multi-view Clustering](#Deep Incomplete Multi-view Clustering) |
+|  [Deep Partially View-unaligned Clustering](#Deep Partially View-unaligned Clustering) |  [Noisy Correspondence](#Noisy Correspondence)       |
+|  [Re-identification](#re-identification)  |  [Image Contrastive Learning](#image-contrastive-learning)     |
+||| 
+
 ## Deep Multi-view Clustering (DMVC)
 
 #### 2025
