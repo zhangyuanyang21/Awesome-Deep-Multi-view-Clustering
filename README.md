@@ -6,14 +6,14 @@
 |-|-|
 |  [Deep Multi-view Clustering](#DMVC)   |  [Deep Incomplete Multi-view Clustering](#DIMVC) |
 |  [Deep Partially View-unaligned Clustering](#DPVC) |  [Noisy Correspondence](#Noisy-Correspondence) |
-|  [Re-identification](#re-identification)  |  [Image Contrastive Learning](#image-contrastive-learning)|
+|[Re-identification](#re-identification)   |                                     |
 ||| 
 
-## Deep Multi-view Clustering (DMVC)
+## Deep Multi-view Clustering
 
 #### 2025
 
-## Deep Incomplete Multi-view Clustering (DIMVC)
+## Deep Incomplete Multi-view Clustering
 
 #### 2025
 
@@ -35,7 +35,7 @@
 #### 2024
 
 
-## Deep Partially View-unaligned Clustering (PVP)
+## Deep Partially View-unaligned Clustering
 
 #### 2025
 
