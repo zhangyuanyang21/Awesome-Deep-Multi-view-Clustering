@@ -8,20 +8,6 @@
 
 #### 2025
 
-
-## Deep Partially View-unaligned Clustering (PVP)
-
-#### 2025
-
-- `[2025 arXiv]` **Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**  
-*Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He*  
-[[paper]](https://arxiv.org/abs/2509.16022)
-
-- `[2025 TPAMI]` **Probabilistically Aligned View-unaligned Clustering with Adaptive Template Selection**
-*Wenhua Dong, Xiao-Jun Wu, Zhenhua Feng, Sara Atito, Muhammad Awais, Josef Kittler*  
-[[paper]](https://ieeexplore.ieee.org/abstract/document/11194914)
-[[code]](https://github.com/Wenhua-Dong/PAVuC_ATS)
-
 - `[2025 CVPR]` **Imputation-free and Alignment-free: Incomplete Multi-view Clustering Driven by Consensus Semantic Learning**  
 *Yuzhuo Dai, Jiaqi Jin, Zhibin Dong, Siwei Wang, Xinwang Liu, En Zhu, Xihong Yang, Xinbiao Gan, Yu Feng*  
 [[paper]](https://arxiv.org/abs/2505.11182)
@@ -36,6 +22,22 @@
 *Honglin Yuan, Yuan Sun, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren*  
 [[paper]](https://ieeexplore.ieee.org/document/10847794)
 [[code]](https://github.com/hl-yuan/PMIMC)
+
+#### 2024
+
+
+## Deep Partially View-unaligned Clustering (PVP)
+
+#### 2025
+
+- `[2025 arXiv]` **Generalized Deep Multi-view Clustering via Causal Learning with Partially Aligned Cross-view Correspondence**  
+*Xihong Yang, Siwei Wang, Jiaqi Jin, Fangdi Wang, Tianrui Liu, Yueming Jin, Xinwang Liu, En Zhu, Kunlun He*  
+[[paper]](https://arxiv.org/abs/2509.16022)
+
+- `[2025 TPAMI]` **Probabilistically Aligned View-unaligned Clustering with Adaptive Template Selection**
+*Wenhua Dong, Xiao-Jun Wu, Zhenhua Feng, Sara Atito, Muhammad Awais, Josef Kittler*  
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11194914)
+[[code]](https://github.com/Wenhua-Dong/PAVuC_ATS)
 
 - `[2025 TNNLS]` **Multilevel Reliable Guidance for Unpaired Multiview Clustering**  
 *Like Xin, Wanqi Yang, Lei Wang, Ming Yang*  
