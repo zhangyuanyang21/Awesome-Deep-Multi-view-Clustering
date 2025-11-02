@@ -5,8 +5,8 @@
 |||
 |-|-|
 |  [Deep Multi-view Clustering](#DMVC)   |  [Deep Incomplete Multi-view Clustering](#DIMVC) |
-|  [Deep Partially View-unaligned Clustering](#DPVC) |  [Noisy Correspondence](#NC)       |
-|  [Re-identification](#re-identification)  |  [Image Contrastive Learning](#image-contrastive-learning)     |
+|  [Deep Partially View-unaligned Clustering](#DPVC) |  [Noisy Correspondence](#NC) |
+|  [Re-identification](#re-identification)  |  [Image Contrastive Learning](#image-contrastive-learning)|
 ||| 
 
 ## Deep Multi-view Clustering (DMVC)
