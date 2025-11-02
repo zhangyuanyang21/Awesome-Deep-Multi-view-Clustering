@@ -6,7 +6,7 @@
 |-|-|
 |  [Deep Multi-view Clustering](#DMVC)   |  [Deep Incomplete Multi-view Clustering](#DIMVC) |
 |  [Deep Partially View-unaligned Clustering](#DPVC) |  [Noisy Correspondence](#Noisy-Correspondence) |
-|[Re-identification](#re-identification)   |                                     |
+|  [Re-identification](#re-identification)   |                                     |
 ||| 
 
 ## Deep Multi-view Clustering
