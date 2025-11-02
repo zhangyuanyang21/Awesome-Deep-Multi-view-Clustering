@@ -172,19 +172,6 @@ We mark works contributed by our group with ⭐.
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
 
-#### 2021
-
-- `[2021 CVPR]` **⭐Partially View-aligned Representation Learning with Noise-robust Contrastive Loss**   
-*Mouxing Yang, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng*  
-[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf)
-[[code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
-
-
-- `[2021 KDD]` **A novel multi-view clustering method for unknown mapping relationships between cross-view samples**  
-*Hong Yu, Jia Tang, Guoyin Wang, Xinbo Gao*  
-[[paper]](https://dl.acm.org/doi/10.1145/3447548.3467294)
-[[code]](https://github.com/yuhongcqupt/MVC-UM)
-
 
 
  
