@@ -36,24 +36,24 @@
 [[code]](https://github.com/DYZ163/RGCL)
 
 - `[2025 TIP]` **Prototype Matching Learning for Incomplete Multi-view Clustering**  
-  *Honglin Yuan, Yuan Sun, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren*  
-  [[paper]](https://ieeexplore.ieee.org/document/10847794)
-  [[code]](https://github.com/hl-yuan/PMIMC)
+*Honglin Yuan, Yuan Sun, Fei Zhou, Jing Wen, Shihua Yuan, Xiaojian You, Zhenwen Ren*  
+[[paper]](https://ieeexplore.ieee.org/document/10847794)
+[[code]](https://github.com/hl-yuan/PMIMC)
 
 - `[2025 IJCAI]` **Imputation-free Incomplete Multi-view Clustering via Knowledge Distillation** 
-  *Benyu Wu , Wei Du, Jun Wang and Guoxian Yu*
-  [[paper]](https://www.ijcai.org/proceedings/2025/0731.pdf)
-  [[code]](https://www.sdu-idea.cn/codes.php?name=I2MVC)
+*Benyu Wu , Wei Du, Jun Wang and Guoxian Yu*
+[[paper]](https://www.ijcai.org/proceedings/2025/0731.pdf)
+[[code]](https://www.sdu-idea.cn/codes.php?name=I2MVC)
 
 - `[2025 ICCV]`**A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns**
-  *Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao*  
-  [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html)
-  [[code]](https://github.com/xiaorui-jiang/BRIDGE)
+*Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao*  
+[[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html)
+[[code]](https://github.com/xiaorui-jiang/BRIDGE)
   
 - `[2025 AAAI]`**Incomplete Multi-view Clustering via Diffusion Contrastive Generation**
-  *Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu*
-  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34424)
-  [[code]](https://github.com/zhangyuanyang21/2025-AAAI-DCG)
+*Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu*
+[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34424)
+[[code]](https://github.com/zhangyuanyang21/2025-AAAI-DCG)
 
 #### 2024
 
