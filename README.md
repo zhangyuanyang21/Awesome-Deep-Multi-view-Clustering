@@ -46,14 +46,20 @@
 [[code]](https://www.sdu-idea.cn/codes.php?name=I2MVC)
 
 - `[2025 ICCV]`**A Unified Framework to BRIDGE Complete and Incomplete Deep Multi-View Clustering under Non-IID Missing Patterns**  
-*Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao*  
-[[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html)
-[[code]](https://github.com/xiaorui-jiang/BRIDGE)
+  *Xiaorui Jiang, Buyun He, Peng Yuan Zhou, Xinyue Chen, Jingcai Guo, Jie Xu, Yong Liao*  
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Jiang_A_Unified_Framework_to_BRIDGE_Complete_and_Incomplete_Deep_Multi-View_ICCV_2025_paper.html)
+  [[code]](https://github.com/xiaorui-jiang/BRIDGE)
   
 - `[2025 AAAI]`**Incomplete Multi-view Clustering via Diffusion Contrastive Generation**  
-*Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu*  
-[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34424)
-[[code]](https://github.com/zhangyuanyang21/2025-AAAI-DCG)
+  *Yuanyang Zhang, Yijie Lin, Weiqing Yan, Li Yao, Xinhang Wan, Guangyuan Li, Chao Zhang, Guanzhou Ke, Jie Xu*  
+  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34424)
+  [[code]](https://github.com/zhangyuanyang21/2025-AAAI-DCG)
+
+- `[2025 NeurIPS]`**Incomplete Multi-view Clustering via Hierarchical Semantic Alignment and Cooperative Completion**  
+  *Xiaojian Ding, Lin Zhao, Xian Li, Xiaoying Zhu*  
+  [[paper]](https://arxiv.org/html/2510.13887v3)
+  [[code]](https://github.com/XiaojianDing/2025-NeurIPS-HSACC)
+
 
 #### 2024
 
