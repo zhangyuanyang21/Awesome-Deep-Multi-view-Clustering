@@ -13,7 +13,10 @@
 
 #### 2025
 
-
+- `[2025 NeurIPS]` **SparseMVC: Probing Cross-view Sparsity Variations for Multi-view Clustering**  
+*Ruimeng Liu, Xin Zou, Chang Tang, Xiao Zheng, Xingchen Hu, Kun Sun, Xinwang Liu*  
+[[paper]](https://www.kdocs.cn/l/cj6CUBIYQdiK)
+[[code]](https://github.com/cleste-pome/SparseMVC)
 
 ## Deep Incomplete Multi-view Clustering
 
