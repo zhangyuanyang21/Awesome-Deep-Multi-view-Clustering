@@ -19,7 +19,7 @@
 [[code]](https://github.com/cleste-pome/SparseMVC)
 
 - `[2025 ICCV]` **Robust Multi-View Learning via Representation Fusion of Sample-Level Attention and Alignment of Simulated Perturbation**  
-*Jie Xu, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu* 
+*Jie Xu, Na Zhao, Gang Niu, Masashi Sugiyama, Xiaofeng Zhu*
 [[paper]](https://arxiv.org/pdf/2503.04151)
 [[code]](https://github.com/SubmissionsIn/RML)
 
