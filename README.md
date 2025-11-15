@@ -106,11 +106,6 @@
 *Liang Zhao, Ziyue Wang, Xiao Wang, Zhikui Chen, Bo Xu*  
 [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/34439)
 
-- `[2025 CVPR]` **⭐ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**  
-*Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu*  
-[[paper]](https://sunyuan-cs.github.io/)
-[[code]](https://sunyuan-cs.github.io/)
-
 - `[2025 ESWA]` **Partially View-aligned Clustering via Data Recoupling and Elastic Bi-consistency Learning**  
 *Wenzhe Liu, Jiongcheng Zhu, Jingbo Tan, Huibing Wang, Yong Zhang*  
 [[paper]](https://www.sciencedirect.com/science/article/pii/S0957417425033561)
@@ -146,11 +141,6 @@
 [[paper]](https://arxiv.org/pdf/2305.12743)
 [[code]](https://github.com/XLearning-SCU/2023-TPAMI-SMILE)
 
-
-- `[2024 TKDE]` **⭐Robust Multi-View Clustering with Noisy Correspondence**  
-*Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu*  
-[[paper]](https://ieeexplore.ieee.org/document/10595464)
-[[code]](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 
 - `[2024 AAAI]` **⭐Decoupled Contrastive Multi-view Clustering with High-order Random Walks**  
 *Yiding Lu, Yijie Lin, Mouxing Yang, Dezhong Peng, Peng Hu, Xi Peng*  
@@ -214,6 +204,21 @@
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
+## Noisy-Correspondence
+
+#### 2025
+
+- `[2025 CVPR]` **⭐ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence**  
+*Yuan Sun, Yongxiang Li, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu*  
+[[paper]](https://sunyuan-cs.github.io/)
+[[code]](https://sunyuan-cs.github.io/)
+
+#### 2024
+
+- `[2024 TKDE]` **⭐Robust Multi-View Clustering with Noisy Correspondence**  
+*Yuan Sun, Yang Qin, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu*  
+[[paper]](https://ieeexplore.ieee.org/document/10595464)
+[[code]](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 
 
 
