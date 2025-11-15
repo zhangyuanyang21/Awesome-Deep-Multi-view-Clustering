@@ -4,8 +4,8 @@
 
 |||
 |-|-|
-|  [Deep Multi-view Clustering](#DMVC)   |  [Deep Incomplete Multi-view Clustering](#DIMVC) |
-|  [Deep Partially View-unaligned Clustering](#DPVC) |  [Noisy Correspondence](#Noisy-Correspondence) |
+|  [Deep Multi-view Clustering](#Deep Multi-view Clustering)   |  [Deep Incomplete Multi-view Clustering](#Deep Incomplete Multi-view Clustering) |
+|  [Deep Partially View-unaligned Clustering](#Deep Partially View-unaligned Clustering) |  [Noisy Correspondence](#Noisy-Correspondence) |
 ||| 
 
 
