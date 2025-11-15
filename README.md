@@ -204,7 +204,7 @@
 [[paper]](https://ieeexplore.ieee.org/abstract/document/9723577)
 [[code]](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 
-## Noisy-Correspondence
+## Noisy Correspondence
 
 #### 2025
 
